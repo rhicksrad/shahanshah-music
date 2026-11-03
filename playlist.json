@@ -1,0 +1,752 @@
+[
+ {
+  "src": "tracks/000_the_eternal_sands",
+  "credit": "\"The Eternal Sands\" by Hitctrl, licensed under CC BY 3.0",
+  "page": "https://opengameart.org/content/fantasy-music-the-eternal-sands",
+  "secs": 115.2
+ },
+ {
+  "src": "tracks/001_desert_sanctuary",
+  "credit": "\"Desert Sanctuary\" by Tausdei, licensed under CC BY 3.0",
+  "page": "https://opengameart.org/content/desert-sanctuary",
+  "secs": 171.47
+ },
+ {
+  "src": "tracks/002_opium",
+  "credit": "\"Opium\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100371",
+  "secs": 360.96
+ },
+ {
+  "src": "tracks/003_the_desert_of_dreams",
+  "credit": "\"The Desert of Dreams\" by Insydnis",
+  "page": "https://opengameart.org/content/the-desert-of-dreams",
+  "secs": 116.15
+ },
+ {
+  "src": "tracks/004_eastern_thought",
+  "credit": "\"Eastern Thought\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100682",
+  "secs": 255.88
+ },
+ {
+  "src": "tracks/005_a_kind_of_hope",
+  "credit": "\"A Kind Of Hope\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/a-kind-of-hope/",
+  "secs": 332.87
+ },
+ {
+  "src": "tracks/006_teller_of_the_tales",
+  "credit": "\"Teller of the Tales\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400020",
+  "secs": 200.9
+ },
+ {
+  "src": "tracks/007_desert_settlement",
+  "credit": "\"Desert Settlement\" by vitalezzz",
+  "page": "https://opengameart.org/content/desert-settlement",
+  "secs": 291.95
+ },
+ {
+  "src": "tracks/008_arid_foothills",
+  "credit": "\"Arid Foothills\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100437",
+  "secs": 190.89
+ },
+ {
+  "src": "tracks/009_sunset_plains",
+  "credit": "\"Sunset Plains\" by Yoiyami, dedicated to the public domain under CC0 1.0",
+  "page": "https://opengameart.org/content/sunset-plains",
+  "secs": 323.68
+ },
+ {
+  "src": "tracks/010_truth_in_the_stones",
+  "credit": "\"Truth in the Stones\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700059",
+  "secs": 367.39
+ },
+ {
+  "src": "tracks/011_mirage",
+  "credit": "\"Mirage\" by syncopika",
+  "page": "https://opengameart.org/content/mirage",
+  "secs": 88.31
+ },
+ {
+  "src": "tracks/012_lord_of_the_land",
+  "credit": "\"Lord of the Land\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400022",
+  "secs": 179.37
+ },
+ {
+  "src": "tracks/013_aurora",
+  "credit": "\"Aurora\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/aurora/",
+  "secs": 488.6
+ },
+ {
+  "src": "tracks/014_babylon",
+  "credit": "\"Babylon\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100314",
+  "secs": 246.68
+ },
+ {
+  "src": "tracks/015_hyoshi",
+  "credit": "\"Hyoshi\" by Tozan",
+  "page": "https://opengameart.org/content/hyyoshi-arabian-syle-backgound-music-rpg",
+  "secs": 166.63
+ },
+ {
+  "src": "tracks/016_temple_of_the_manes",
+  "credit": "\"Temple of the Manes\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100053",
+  "secs": 139.44
+ },
+ {
+  "src": "tracks/017_beautiful_oblivion",
+  "credit": "\"Beautiful Oblivion\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/beautiful-oblivion/",
+  "secs": 416.25
+ },
+ {
+  "src": "tracks/018_overheat",
+  "credit": "\"Overheat\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100477",
+  "secs": 412.12
+ },
+ {
+  "src": "tracks/019_negev_desert",
+  "credit": "\"Negev Desert\" by Dizzy Crow",
+  "page": "https://opengameart.org/content/desert-calmness-and-fighting-orchestral-141",
+  "secs": 120.0
+ },
+ {
+  "src": "tracks/020_expeditionary",
+  "credit": "\"Expeditionary\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100436",
+  "secs": 181.66
+ },
+ {
+  "src": "tracks/021_passage_of_time",
+  "credit": "\"Passage of Time\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/passage-of-time/",
+  "secs": 264.18
+ },
+ {
+  "src": "tracks/022_dhaka",
+  "credit": "\"Dhaka\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400003",
+  "secs": 240.64
+ },
+ {
+  "src": "tracks/023_journey_to_the_east_rocks",
+  "credit": "\"Journey to the East Rocks\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/journey-to-the-east-rocks",
+  "secs": 280.47
+ },
+ {
+  "src": "tracks/024_exotics",
+  "credit": "\"Exotics\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100233",
+  "secs": 314.05
+ },
+ {
+  "src": "tracks/025_in_search_of_solitude",
+  "credit": "\"In Search Of Solitude\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/in-search-of-solitude/",
+  "secs": 435.77
+ },
+ {
+  "src": "tracks/026_mystic_force",
+  "credit": "\"Mystic Force\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500060",
+  "secs": 217.79
+ },
+ {
+  "src": "tracks/027_desert_theme_caravan",
+  "credit": "\"Desert theme (Caravan)\" by yd",
+  "page": "https://opengameart.org/content/desert-theme",
+  "secs": 89.66
+ },
+ {
+  "src": "tracks/028_ritual",
+  "credit": "\"Ritual\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100466",
+  "secs": 253.26
+ },
+ {
+  "src": "tracks/029_east_of_tunesia",
+  "credit": "\"East of Tunesia\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100246",
+  "secs": 96.35
+ },
+ {
+  "src": "tracks/030_contemplation",
+  "credit": "\"Contemplation\" by Joth, dedicated to the public domain under CC0 1.0",
+  "page": "https://opengameart.org/content/contemplation-0",
+  "secs": 119.97
+ },
+ {
+  "src": "tracks/031_return_of_the_mummy",
+  "credit": "\"Return of the Mummy\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700046",
+  "secs": 154.07
+ },
+ {
+  "src": "tracks/032_desert_mystic",
+  "credit": "\"Desert Mystic\" by PolygonDan",
+  "page": "https://opengameart.org/content/desertmystic-dynastic-egyptian-theme-cc0",
+  "secs": 34.07
+ },
+ {
+  "src": "tracks/033_shifting_sands_of_ma_kali",
+  "credit": "\"Shifting Sands of Ma-Kali\" by Hitctrl",
+  "page": "https://opengameart.org/content/shifting-sands-of-ma-kali",
+  "secs": 211.52
+ },
+ {
+  "src": "tracks/034_tabuk",
+  "credit": "\"Tabuk\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100818",
+  "secs": 150.73
+ },
+ {
+  "src": "tracks/035_egyptian_meditation_music",
+  "credit": "\"Egyptian Meditation Music\" by HaelDB",
+  "page": "https://opengameart.org/content/egyptian-meditation-music",
+  "secs": 118.0
+ },
+ {
+  "src": "tracks/036_desert_mystic_2",
+  "credit": "\"Desert Mystic 2\" by PolygonDan",
+  "page": "https://opengameart.org/content/desertmystic-dynastic-egyptian-theme-cc0",
+  "secs": 50.06
+ },
+ {
+  "src": "tracks/037_mystery_bazaar",
+  "credit": "\"Mystery Bazaar\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700005",
+  "secs": 149.71
+ },
+ {
+  "src": "tracks/038_ancient_temple",
+  "credit": "\"Ancient Temple\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/ancient-temple",
+  "secs": 90.58
+ },
+ {
+  "src": "tracks/039_desert_mystic_3",
+  "credit": "\"Desert Mystic 3\" by PolygonDan",
+  "page": "https://opengameart.org/content/desertmystic-dynastic-egyptian-theme-cc0",
+  "secs": 50.06
+ },
+ {
+  "src": "tracks/040_ibn_al_noor",
+  "credit": "\"Ibn Al-Noor\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100706",
+  "secs": 212.23
+ },
+ {
+  "src": "tracks/041_nomads",
+  "credit": "\"Nomads\" by elerya",
+  "page": "https://opengameart.org/content/nomads",
+  "secs": 36.29
+ },
+ {
+  "src": "tracks/042_egyptian_style_dune_style",
+  "credit": "\"Egyptian Style/Dune Style\" by Spring Spring",
+  "page": "https://opengameart.org/content/egyptian-styledune-style",
+  "secs": 106.64
+ },
+ {
+  "src": "tracks/043_desert_city",
+  "credit": "\"Desert City\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100564",
+  "secs": 83.36
+ },
+ {
+  "src": "tracks/044_hidden_wonders",
+  "credit": "\"Hidden Wonders\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700006",
+  "secs": 173.41
+ },
+ {
+  "src": "tracks/045_modern_eastern_arabian_princess",
+  "credit": "\"Modern Eastern (Arabian Princess)\" by Clement Panchout",
+  "page": "https://opengameart.org/content/cinematic-arabian-princess",
+  "secs": 90.0
+ },
+ {
+  "src": "tracks/046_ancient_ruins",
+  "credit": "\"Ancient Ruins\" by tcarisland",
+  "page": "https://opengameart.org/content/ancient-ruins-1",
+  "secs": 186.05
+ },
+ {
+  "src": "tracks/047_ancient_rite",
+  "credit": "\"Ancient Rite\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900048",
+  "secs": 113.09
+ },
+ {
+  "src": "tracks/048_mediterranean_breeze",
+  "credit": "\"Mediterranean Breeze\" by Eric Matyas, www.soundimage.org, licensed under CC BY 3.0",
+  "page": "https://opengameart.org/content/mediterranean-breezelooping",
+  "secs": 47.99
+ },
+ {
+  "src": "tracks/049_chronicle",
+  "credit": "\"Chronicle\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/chronicle/",
+  "secs": 245.58
+ },
+ {
+  "src": "tracks/050_tenebrous_brothers_carnival_snake_lady",
+  "credit": "\"Tenebrous Brothers Carnival - Snake Lady\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/music.html",
+  "secs": 192.4
+ },
+ {
+  "src": "tracks/051_mystic_journey",
+  "credit": "\"Mystic Journey\" by Tausdei",
+  "page": "https://opengameart.org/content/mystic-journey",
+  "secs": 225.82
+ },
+ {
+  "src": "tracks/052_greko_sketch",
+  "credit": "\"Greko (Sketch)\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100389",
+  "secs": 207.92
+ },
+ {
+  "src": "tracks/053_invocation",
+  "credit": "\"Invocation\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/invocation/",
+  "secs": 205.37
+ },
+ {
+  "src": "tracks/054_start_of_civilisation",
+  "credit": "\"Start of Civilisation\" by DaGameKnower",
+  "page": "https://opengameart.org/content/start-of-civilisation",
+  "secs": 62.99
+ },
+ {
+  "src": "tracks/055_angevin",
+  "credit": "\"Angevin\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200110",
+  "secs": 271.95
+ },
+ {
+  "src": "tracks/056_hymn_to_the_dawn",
+  "credit": "\"Hymn to the Dawn\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/hymn-to-the-dawn/",
+  "secs": 415.51
+ },
+ {
+  "src": "tracks/057_the_great_sea",
+  "credit": "\"The Great Sea\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/the-great-sea/",
+  "secs": 268.2
+ },
+ {
+  "src": "tracks/058_walking_with_poseidon",
+  "credit": "\"Walking with Poseidon\" by mvrasseli",
+  "page": "https://opengameart.org/content/walking-with-poseidon",
+  "secs": 34.62
+ },
+ {
+  "src": "tracks/059_katabasis_i",
+  "credit": "\"Katabasis I\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/katabasis-i/",
+  "secs": 577.09
+ },
+ {
+  "src": "tracks/060_the_pilgrimage",
+  "credit": "\"The Pilgrimage\" by Viktor Kraus",
+  "page": "https://opengameart.org/content/the-pilgrimage-0",
+  "secs": 200.48
+ },
+ {
+  "src": "tracks/061_shoulders_of_giants",
+  "credit": "\"Shoulders of Giants\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/shoulders-of-giants/",
+  "secs": 435.72
+ },
+ {
+  "src": "tracks/062_sons_of_the_storm",
+  "credit": "\"Sons of the Storm\" by Patrick Maney",
+  "page": "https://opengameart.org/content/sons-of-the-storm-battlecinematic-music",
+  "secs": 172.86
+ },
+ {
+  "src": "tracks/063_lament_of_the_war",
+  "credit": "\"Lament of the War\" by Cethiel",
+  "page": "https://opengameart.org/content/laments-of-the-war",
+  "secs": 222.0
+ },
+ {
+  "src": "tracks/064_katabasis_ii",
+  "credit": "\"Katabasis II\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/katabasis-ii/",
+  "secs": 400.95
+ },
+ {
+  "src": "tracks/065_ancient_ruins",
+  "credit": "\"Ancient Ruins\" by Ted Kerr (Wolfgang_), 2017, licensed under CC BY 3.0",
+  "page": "https://opengameart.org/content/ancient-ruins",
+  "secs": 211.61
+ },
+ {
+  "src": "tracks/066_defying_commodus",
+  "credit": "\"Defying Commodus\" by Matthew Pablo, www.matthewpablo.com, licensed under CC BY 3.0",
+  "page": "https://opengameart.org/content/defying-commodus",
+  "secs": 123.63
+ },
+ {
+  "src": "tracks/067_anabasis_i",
+  "credit": "\"Anabasis I\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/anabasis-i/",
+  "secs": 556.27
+ },
+ {
+  "src": "tracks/068_path_through_the_mountains",
+  "credit": "\"Path Through the Mountains\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/path-through-the-mountains/",
+  "secs": 305.28
+ },
+ {
+  "src": "tracks/069_old_road",
+  "credit": "\"Old Road\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100725",
+  "secs": 107.95
+ },
+ {
+  "src": "tracks/070_endless_expanse",
+  "credit": "\"Endless Expanse\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/tribal-music",
+  "secs": 226.0
+ },
+ {
+  "src": "tracks/071_memories_of_stone",
+  "credit": "\"Memories of Stone\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/memories-of-stone/",
+  "secs": 322.33
+ },
+ {
+  "src": "tracks/072_miri_s_magic_dance",
+  "credit": "\"Miri's Magic Dance\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100157",
+  "secs": 83.62
+ },
+ {
+  "src": "tracks/073_life_of_the_tribe",
+  "credit": "\"Life of the Tribe\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/tribal-music",
+  "secs": 162.01
+ },
+ {
+  "src": "tracks/074_land_of_the_great_gods",
+  "credit": "\"Land of the Great Gods\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/land-of-the-great-gods",
+  "secs": 193.67
+ },
+ {
+  "src": "tracks/075_shadows_and_dust",
+  "credit": "\"Shadows and Dust\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/shadows-and-dust/",
+  "secs": 400.23
+ },
+ {
+  "src": "tracks/076_green_forests",
+  "credit": "\"Green Forests\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/tribal-music",
+  "secs": 212.67
+ },
+ {
+  "src": "tracks/077_drums_in_the_deepwood_a_great_stirring",
+  "credit": "\"Drums in the Deepwood: A Great Stirring\" by Elyvilon",
+  "page": "https://opengameart.org/content/dark-forest-tribal-troll-folk-shamanic-music-drums-in-the-deepwood",
+  "secs": 163.91
+ },
+ {
+  "src": "tracks/078_the_great_oasis",
+  "credit": "\"The Great Oasis\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/tribal-music",
+  "secs": 218.68
+ },
+ {
+  "src": "tracks/079_legionnaire_2022",
+  "credit": "\"Legionnaire (2022)\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/legionnaire-2022/",
+  "secs": 171.49
+ },
+ {
+  "src": "tracks/080_firesong",
+  "credit": "\"Firesong\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100598",
+  "secs": 204.52
+ },
+ {
+  "src": "tracks/081_crusade",
+  "credit": "\"Crusade\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100884",
+  "secs": 192.45
+ },
+ {
+  "src": "tracks/082_rise_of_spirit",
+  "credit": "\"Rise of Spirit\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/rise-of-spirit",
+  "secs": 75.75
+ },
+ {
+  "src": "tracks/083_stoneworld_battle",
+  "credit": "\"Stoneworld Battle\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100352",
+  "secs": 226.21
+ },
+ {
+  "src": "tracks/084_five_armies",
+  "credit": "\"Five Armies\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100875",
+  "secs": 147.69
+ },
+ {
+  "src": "tracks/085_arcane",
+  "credit": "\"Arcane\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100831",
+  "secs": 314.6
+ },
+ {
+  "src": "tracks/086_uprising",
+  "credit": "\"Uprising\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/uprising/",
+  "secs": 196.51
+ },
+ {
+  "src": "tracks/087_the_descent",
+  "credit": "\"The Descent\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200094",
+  "secs": 183.3
+ },
+ {
+  "src": "tracks/088_it_s_our_battle",
+  "credit": "\"It's Our Battle\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/its-our-battle",
+  "secs": 46.31
+ },
+ {
+  "src": "tracks/089_clash_defiant",
+  "credit": "\"Clash Defiant\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600003",
+  "secs": 369.05
+ },
+ {
+  "src": "tracks/090_firebrand",
+  "credit": "\"Firebrand\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100830",
+  "secs": 348.76
+ },
+ {
+  "src": "tracks/091_colossus",
+  "credit": "\"Colossus\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100358",
+  "secs": 269.36
+ },
+ {
+  "src": "tracks/092_arabesque",
+  "credit": "\"Arabesque\" by brainiac256",
+  "page": "https://opengameart.org/content/arabesque",
+  "secs": 195.75
+ },
+ {
+  "src": "tracks/093_curse_of_the_scarab",
+  "credit": "\"Curse of the Scarab\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600014",
+  "secs": 319.45
+ },
+ {
+  "src": "tracks/094_big_drumming",
+  "credit": "\"Big Drumming\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100000",
+  "secs": 210.41
+ },
+ {
+  "src": "tracks/095_exotic_battle",
+  "credit": "\"Exotic Battle\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100451",
+  "secs": 161.77
+ },
+ {
+  "src": "tracks/096_negev_fight",
+  "credit": "\"Negev Fight\" by Dizzy Crow",
+  "page": "https://opengameart.org/content/desert-calmness-and-fighting-orchestral-141",
+  "secs": 104.77
+ },
+ {
+  "src": "tracks/097_interloper",
+  "credit": "\"Interloper\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100401",
+  "secs": 251.95
+ },
+ {
+  "src": "tracks/098_drums_of_the_deep",
+  "credit": "\"Drums of the Deep\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400021",
+  "secs": 166.02
+ },
+ {
+  "src": "tracks/099_witch_hunt",
+  "credit": "\"Witch Hunt\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100444",
+  "secs": 200.1
+ },
+ {
+  "src": "tracks/100_heated_lands",
+  "credit": "\"Heated Lands\" composed by Jonathan Shaw (InspectorJ, www.jshaw.co.uk), licensed under CC BY 3.0",
+  "page": "https://opengameart.org/content/heated-lands-rpg-orchestral-essentials-dungeon-music",
+  "secs": 179.97
+ },
+ {
+  "src": "tracks/101_movement_proposition",
+  "credit": "\"Movement Proposition\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100778",
+  "secs": 132.33
+ },
+ {
+  "src": "tracks/102_stormfront",
+  "credit": "\"Stormfront\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200043",
+  "secs": 328.47
+ },
+ {
+  "src": "tracks/103_rites_of_passage",
+  "credit": "\"Rites of Passage\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/rites-of-passage/",
+  "secs": 322.17
+ },
+ {
+  "src": "tracks/104_noble_race",
+  "credit": "\"Noble Race\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100888",
+  "secs": 302.61
+ },
+ {
+  "src": "tracks/105_the_tread_of_war",
+  "credit": "\"The Tread of War\" by InspectorJ (www.jshaw.co.uk), licensed under CC BY 3.0",
+  "page": "https://opengameart.org/content/the-tread-of-war-rpg-orchestral-essentials-military-music",
+  "secs": 206.36
+ },
+ {
+  "src": "tracks/106_the_fury",
+  "credit": "\"The Fury\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/the-fury/",
+  "secs": 415.21
+ },
+ {
+  "src": "tracks/107_hero_down",
+  "credit": "\"Hero Down\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100880",
+  "secs": 199.23
+ },
+ {
+  "src": "tracks/108_battle_march",
+  "credit": "\"Battle March\" by PlayOnLoop.com, licensed under CC BY 3.0",
+  "page": "https://opengameart.org/content/battle-march-epic-orchestral-music-loop",
+  "secs": 5.29
+ },
+ {
+  "src": "tracks/109_into_the_wilds",
+  "credit": "\"Into the Wilds\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/into-the-wilds/",
+  "secs": 238.31
+ },
+ {
+  "src": "tracks/110_clenched_teeth",
+  "credit": "\"Clenched Teeth\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100705",
+  "secs": 82.23
+ },
+ {
+  "src": "tracks/111_heroic_age",
+  "credit": "\"Heroic Age\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100848",
+  "secs": 91.06
+ },
+ {
+  "src": "tracks/112_death_and_axes",
+  "credit": "\"Death and Axes\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700049",
+  "secs": 154.87
+ },
+ {
+  "src": "tracks/113_battle_theme_1",
+  "credit": "\"Battle Theme 1\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/battle-themes",
+  "secs": 94.0
+ },
+ {
+  "src": "tracks/114_drums_in_the_deepwood_a_hunger_to_carry_",
+  "credit": "\"Drums in the Deepwood: A Hunger to Carry Off Flocks\" by Elyvilon",
+  "page": "https://opengameart.org/content/dark-forest-tribal-troll-folk-shamanic-music-drums-in-the-deepwood",
+  "secs": 402.0
+ },
+ {
+  "src": "tracks/115_battle_theme_2",
+  "credit": "\"Battle Theme 2\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/battle-themes",
+  "secs": 82.67
+ },
+ {
+  "src": "tracks/116_trouble_with_tribals",
+  "credit": "\"Trouble with Tribals\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000002",
+  "secs": 158.52
+ },
+ {
+  "src": "tracks/117_battle_theme_3",
+  "credit": "\"Battle Theme 3\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/battle-themes",
+  "secs": 78.53
+ },
+ {
+  "src": "tracks/118_juggernaut",
+  "credit": "\"Juggernaut\" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au",
+  "page": "https://www.scottbuckley.com.au/library/juggernaut/",
+  "secs": 214.69
+ },
+ {
+  "src": "tracks/119_battle_theme_4",
+  "credit": "\"Battle Theme 4\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/battle-themes",
+  "secs": 98.05
+ },
+ {
+  "src": "tracks/120_stompdance",
+  "credit": "\"StompDance\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100828",
+  "secs": 214.42
+ },
+ {
+  "src": "tracks/121_battle_theme_5",
+  "credit": "\"Battle Theme 5\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/battle-themes",
+  "secs": 84.04
+ },
+ {
+  "src": "tracks/122_drums_in_the_deepwood_drums_in_the_deepw",
+  "credit": "\"Drums in the Deepwood: Drums in the Deepwood\" by Elyvilon",
+  "page": "https://opengameart.org/content/dark-forest-tribal-troll-folk-shamanic-music-drums-in-the-deepwood",
+  "secs": 204.73
+ },
+ {
+  "src": "tracks/123_heroic_minority",
+  "credit": "\"Heroic Minority\" by Alexandr Zhelanov",
+  "page": "https://opengameart.org/content/heroic-minority",
+  "secs": 123.98
+ },
+ {
+  "src": "tracks/124_cartoon_battle",
+  "credit": "\"Cartoon Battle\" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0",
+  "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100300",
+  "secs": 98.72
+ }
+]
